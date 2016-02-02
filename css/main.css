@@ -1,8 +1,17 @@
+/*
+-----Css encargado de el manejo del index.php---------
+------------------------------------------------------
+*/
 body{
 	padding: 0;
 	margin: 0;
 	background-color: #000000;
 }
+/*
+	para las etiquetas h3,h4,h5,th y tr
+	se modifica el color de la letra su 
+	tamaño y su font-weight.
+*/
 h3{
 	color: #CBCBCB;
 }
@@ -23,6 +32,7 @@ tr{
 	color: #CBCBCB;
 	font-size: 17px;
 }
+
 footer{	
 	margin-top: 10px;
 	margin-bottom: 0;
@@ -30,17 +40,21 @@ footer{
 	display: block;
 	font-size: 15px;
 }
+/*coloca el color al view*/
 .view{
 	background-color: #151515;	
 }
+/*le da el diseño a los links del footer*/
 .afoot{
 	color: #666666;
 	text-decoration: none;
 }
+/*le da el diseño a los links del footer en el vento hover*/
 .afoot:hover{
 	color: #666666;
 	text-decoration: underline;
 }
+/*coloca el diseño del boton de iniciar sesion*/
 .netf{
 	color: #fff;
     background-color: #E50914;
@@ -52,16 +66,20 @@ footer{
     border-radius: 3px;
     font-size: 16px;
 }
+/*define la posicion del logo*/
 .logo{
 	margin-top: 1%;
 	margin-left: 1%;
 	position: absolute;
 	z-index: 1;
 }
+/*cambio el color y borde donde se presentas los dispositivos*/
 .thumbnail{
 	background-color: #151515;	
 	border:none;
 }
+/*media query para poder controlar el comportamiento del boton de iniciar sesion,
+del menu de la pagina(boton mes gratis) y el comportamiento del logo*/
 @media screen and (min-width: 480px){
 	.logo{
 		margin-top: 2%;
@@ -82,7 +100,4 @@ footer{
 			margin-top: 1%;
 			margin-left: 1%;
 		}
-}
-@media screen and (min-width: 950px){
-	
 }

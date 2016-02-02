@@ -23,6 +23,7 @@
 		  </div>
 		</div>
 	</div>
+	<!-- menutop: contiene los titulos y el btn mes gratis, para luego cambiar la posisicion a todo el div-->
 	<div class="container menutop">
 		<div class="row">
 		  <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4">
@@ -36,6 +37,7 @@
 			</div>
 		</div>
 	</div>
+	<!-- slider automatico -->
 	<div class="carousel slide" id="myslider" data-ride="carousel">
 		<div class="carousel-inner">
 			<div class="item active"><img src="img/Solo_Phone.jpg" alt="img1"></div>
@@ -44,7 +46,7 @@
 			<div class="item "><img src="img/Family_TV_InHome.jpg" alt="img4"></div>
 		</div>
 	</div>	
-
+<!-- modal del formulario de inisiar sesion-->
 	<div class="modal fade" id="login">
 		<div class="modal-dialog">
 			<div class="modal-content">
@@ -74,6 +76,8 @@
 			</div>
 		</div>
 	</div>
+
+<!-- contenedor encargado de las cartas de presentacion de dispositivos-->
 <div class="container">
 	<div class="row">
 	<h3 class="text-center">Ve desde donde quieras</h3>
@@ -106,6 +110,7 @@
 	  </div>
 	</div>
 </div>
+<!-- contenedor encargado de mostrar los planes disponible-->
 <div class="container">
 <h3 class="text-center">Escoge un plan y ve lo quieras en Netflix.</h3>
 <table class="table">
