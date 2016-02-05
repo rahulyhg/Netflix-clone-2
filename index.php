@@ -174,8 +174,25 @@
         </tr>
     </tbody>
 </table>
+<div class="container btnver">
+	<h3 class="text-center">Ahora Streaming a nivel mundial </h3>
+	<div class="row">
+		<div class="col-xs-12 col-sm-4 col-sm-offset-5">
+			<button class=" btn netf center-block " id="vervideo" href="">Mostrar Video</button>	
+		</div>
+	</div>
 </div>
 </div>
+</div>
+
+
+<div class="container videos">
+	<div class="embed-responsive embed-responsive-4by3">
+			<video id="player2" src="img/video/ComboBox.mp4" type="video/mp4" controls="controls">        
+			</video>      	
+	</div>
+</div>
+
 </div>
 <footer>
     	<div class="container">

@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>TavoFlix</title>
+	<meta class="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="../css/bootstrap.min.css">
 	<link rel="stylesheet" href="../css/register.css">	
 	<link href="../img/natflix.ico" type="image/x-icon" rel="shortcut icon" />
@@ -168,7 +169,7 @@
 			 <div class="col-xs-6 col-md-4"><a class="afoot" href="">Relaciones con inversionistas</a></div>
 			 <div class="col-xs-6 col-md-4"><a class="afoot" href="">Comprar/Canjear regalo</a></div>
 			 <div class="col-xs-6 col-md-4"><a class="afoot" href="">Formas de ver</a></div>
-			 <div class="col-xs-6 col-md-4"><a class="afoot" href="">Terminos de uso</a></div>
+			 <div class="col-xs-6 col-md-4"><a class="afoot" href="comments.php">Terminos de uso</a></div>
 
 
     		<div class="navbar-text pull-left col-xs-12">

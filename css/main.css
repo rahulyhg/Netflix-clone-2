@@ -81,6 +81,12 @@ footer{
 .thumbnail p{
 	color: #C7C7C7;
 }
+.btnver{
+	padding-bottom: 50px;
+}
+.videos{
+	display: none;
+}
 /*media query para poder controlar el comportamiento del boton de iniciar sesion,
 del menu de la pagina(boton mes gratis) y el comportamiento del logo*/
 @media screen and (min-width: 480px){
