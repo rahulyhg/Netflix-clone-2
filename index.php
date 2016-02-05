@@ -177,8 +177,8 @@
 <div class="container btnver">
 	<h3 class="text-center">Ahora Streaming a nivel mundial </h3>
 	<div class="row">
-		<div class="col-xs-12 col-sm-4 col-sm-offset-5">
-			<button class=" btn netf center-block " id="vervideo" href="">Mostrar Video</button>	
+		<div class="col-xs-4 col-xs-offset-4 col-sm-4 col-sm-offset-5">
+			<button class="btn netf center-block" id="vervideo" href="">Mostrar Video</button>	
 		</div>
 	</div>
 </div>
